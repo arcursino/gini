@@ -1,4 +1,4 @@
-* @arcursino & @deniscostadsc *
+* @arcursino & @deniscostadsc 
 
 # gini
 ## Correlação do coeficiente de GINI e IDHM
